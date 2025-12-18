@@ -70,7 +70,8 @@ The dataset originates from a publicly available Netflix titles database.
 
 📷 Dashboard Preview
 
-(Insert screenshot here after uploading to GitHub)
+<img width="1270" height="705" alt="image" src="https://github.com/user-attachments/assets/5253502c-1aba-4d70-a91f-7a4ebb55689d" />
+
 
 📎 How to Use
 
